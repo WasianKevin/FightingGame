@@ -66,7 +66,12 @@ public class fight1
 
         }
 
-        return hp;
+        if (answer == "chainsaw")
+        {
+            
+        }
+
+            return hp;
 
     }
 }

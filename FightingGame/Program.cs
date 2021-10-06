@@ -16,8 +16,6 @@ answer.ToLower();
 
 Console.WriteLine();
 health = fight1.faighto1(answer, health);
-
-
 Thread.Sleep(5000);
 
 pickle.picklechu(health);
